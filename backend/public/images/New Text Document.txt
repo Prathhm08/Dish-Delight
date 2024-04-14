@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Samosa",
+    "price": "20",
+    "description": "Crispy pastry filled with spiced potatoes, peas, and green chilies, deep-fried to perfection.",
+    "image": "images/samosa.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Pav Bhaji",
+    "price": "100",
+    "description": "A flavorful vegetable curry served with buttered pav (bread rolls) and garnished with chopped onions and coriander.",
+    "image": "images/pav-bhaji.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Chole Bhature",
+    "price": "120",
+    "description": "Spicy chickpea curry (chole) served with deep-fried bread (bhature), topped with pickled carrots and green chilies.",
+    "image": "images/chole-bhature.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Aloo Tikki",
+    "price": "80",
+    "description": "Crispy potato patties seasoned with spices, served with tamarind chutney and yogurt.",
+    "image": "images/aloo-tikki.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Paneer Tikka",
+    "price": "140",
+    "description": "Marinated paneer cubes skewered with vegetables and grilled to perfection, served with mint chutney.",
+    "image": "images/paneer-tikka.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Vada Pav",
+    "price": "50",
+    "description": "Spicy potato fritter (vada) sandwiched in a pav (bread roll), served with green chutney.",
+    "image": "images/vada-pav.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Biryani",
+    "price": "160",
+    "description": "Fragrant basmati rice cooked with spices and layered with marinated meat (chicken or mutton) or vegetables, served with raita.",
+    "image": "images/biryani.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Dosa",
+    "price": "110",
+    "description": "Thin and crispy crepe made from fermented rice and lentil batter, served with coconut chutney and sambar.",
+    "image": "images/dosa.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Idli Sambar",
+    "price": "90",
+    "description": "Soft and fluffy steamed rice cakes served with flavorful lentil soup (sambar) and coconut chutney.",
+    "image": "images/idli-sambar.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Chaat",
+    "price": "100",
+    "description": "A delightful mix of crispy fried dough (papdi), boiled potatoes, chickpeas, and tangy tamarind chutney, garnished with sev (crispy chickpea noodles) and fresh coriander.",
+    "image": "images/chaat.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Pani Puri",
+    "price": "60",
+    "description": "Hollow crispy balls filled with spicy tamarind water, potato, chickpeas, and garnished with sev.",
+    "image": "images/pani-puri.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Kathi Roll",
+    "price": "80",
+    "description": "Flaky paratha filled with a choice of spiced fillings like paneer, chicken, or vegetables, rolled into a wrap.",
+    "image": "images/kathi-roll.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Gulab Jamun",
+    "price": "40",
+    "description": "Deep-fried milk balls soaked in sugar syrup, served warm with a hint of cardamom.",
+    "image": "images/gulab-jamun.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Rasgulla",
+    "price": "50",
+    "description": "Soft and spongy cottage cheese balls soaked in sugar syrup, a classic Indian sweet.",
+    "image": "images/rasgulla.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Momo",
+    "price": "120",
+    "description": "Steamed dumplings filled with vegetables or meat, served with spicy tomato chutney.",
+    "image": "images/momo.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Aloo Paratha",
+    "price": "80",
+    "description": "Whole wheat bread stuffed with spiced mashed potatoes, cooked on a griddle, served with yogurt or butter.",
+    "image": "images/aloo-paratha.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Jalebi",
+    "price": "40",
+    "description": "Crispy and syrupy sweet made by deep-frying flour batter in pretzel or circular shapes, soaked in sugar syrup.",
+    "image": "images/jalebi.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Samosa Chaat",
+    "price": "80",
+    "description": "Broken samosa mixed with spicy chole, yogurt, tamarind chutney, and garnished with sev.",
+    "image": "images/samosa-chaat.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Malai Kofta",
+    "price": "120",
+    "description": "Creamy and rich dumplings made with paneer and potato, cooked in a flavorful tomato-based gravy.",
+    "image": "images/malai-kofta.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Pav Vada",
+    "price": "70",
+    "description": "A fusion dish combining vada (potato fritter) with pav (bread roll), served with spicy chutney.",
+    "image": "images/pav-vada.jpg"
+  }
+]
