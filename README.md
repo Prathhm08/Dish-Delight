@@ -1,6 +1,6 @@
 # Dish Delight 🍲
 
-Welcome to Dish Delight! A single-page web application built with React and Node.js 🚀, where you can explore a variety of Indian dishes, place orders 🍽️, and submit your details to enjoy delicious meals right at your doorstep 🏠.
+Welcome to Dish Delight! A web application built with React and Node.js 🚀, where you can explore a variety of Indian dishes, place orders 🍽️, and submit your details to enjoy delicious meals right at your doorstep 🏠.
 
 ## Features ✨
 
@@ -15,7 +15,6 @@ Welcome to Dish Delight! A single-page web application built with React and Node
 ## Tech Stack 🛠️
 
 - **Frontend**: React
-- **Backend**: Node.js
 - **Local Backend**: Node.js
 - **Package Manager**: npm
 
