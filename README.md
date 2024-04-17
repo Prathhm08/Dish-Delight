@@ -20,33 +20,38 @@ Welcome to Dish Delight! A web application built with React and Node.js 🚀, wh
 
 ## Getting Started 🚀
 
+You can visit the site [here](https://dishdelightdd.netlify.app)  
+OR  
+You can clone and run it on your local machine.
+
 ### Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
-    ```bash
+    \`\`\`bash
     git clone https://github.com/your-username/dish-delight.git
-    ```
+    \`\`\`
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
 
-    ```bash
+    \`\`\`bash
     cd dish-delight
-    ```
+    \`\`\`
 
-3. Install dependencies:
+3. **Install dependencies:**
 
-    ```bash
+    \`\`\`bash
     npm install
-    ```
+    \`\`\`
 
 ### Running the App
 
 To start the application, run:
 
-```bash
+\`\`\`bash
 npm start
+\`\`\`
